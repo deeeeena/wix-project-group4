@@ -5,6 +5,7 @@ $w.onReady(function () {
     // Write your JavaScript here
     // Added a title, description and icon
     // Updated image for italian cuisine
+    // Uploaded images and titles for each cuisine
     // To select an element by ID use: $w('#elementID')
 
     // Click 'Preview' to run your code
