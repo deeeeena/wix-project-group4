@@ -3,6 +3,8 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
+    // Renamed Thanksgiving.sbyn9.js to Japanese.js
+    // Added home button at the end of the page
 
     // To select an element by ID use: $w('#elementID')
 
