@@ -3,6 +3,7 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
+    // Renamed About Me.Ivira.js to About Culinary Cravings.js
 
     // To select an element by ID use: $w('#elementID')
 
