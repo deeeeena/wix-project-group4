@@ -6,6 +6,8 @@ $w.onReady(function () {
     // Added a title, description and icon
     // Updated image for italian cuisine
     // Uploaded images and titles for each cuisine
+    // Edited the placement of the "see more" button
+    
     // To select an element by ID use: $w('#elementID')
 
     // Click 'Preview' to run your code
