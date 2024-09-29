@@ -3,6 +3,8 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
+    // Renamed 4th of july.rz2si.js to Vietnamese.js
+    // Added home button at the end of the page 
 
     // To select an element by ID use: $w('#elementID')
 
