@@ -8,6 +8,7 @@ $w.onReady(function () {
     // Uploaded images and titles for each cuisine
     // Edited the placement of the "see more" button
     // Fixing error on "Vietnam" to "Vietnamese"
+    // Added a section named "Article Catalogs"
     
     // To select an element by ID use: $w('#elementID')
 
