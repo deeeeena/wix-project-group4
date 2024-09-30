@@ -7,6 +7,7 @@ $w.onReady(function () {
     // Updated image for italian cuisine
     // Uploaded images and titles for each cuisine
     // Edited the placement of the "see more" button
+    // Fixing error on "Vietnam" to "Vietnamese"
     
     // To select an element by ID use: $w('#elementID')
 
