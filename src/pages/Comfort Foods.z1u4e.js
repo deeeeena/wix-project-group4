@@ -3,6 +3,7 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
+    // Renamed Comfort Foods.js to Comfort Foods.z1u4e.js
 
     // To select an element by ID use: $w('#elementID')
 
