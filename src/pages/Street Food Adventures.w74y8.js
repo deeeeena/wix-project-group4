@@ -7,6 +7,8 @@ $w.onReady(function () {
     // Added title, subtitle and description
     // Added content and conclusion
     // Updated images and icons
+    // Added street food tips for travelers 
+    // Added icons and flags 
 
     // To select an element by ID use: $w('#elementID')
 
