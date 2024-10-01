@@ -6,6 +6,7 @@ $w.onReady(function () {
     // Chose a template and uploaded an image
     // Added title, subtitle and description
     // Added content and conclusion
+    // Updated images and icons
 
     // To select an element by ID use: $w('#elementID')
 
