@@ -3,6 +3,7 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
+    // Chose a template and uploaded an image
 
     // To select an element by ID use: $w('#elementID')
 
