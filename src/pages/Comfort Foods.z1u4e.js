@@ -4,6 +4,10 @@
 $w.onReady(function () {
     // Write your JavaScript here
     // Renamed Comfort Foods.js to Comfort Foods.z1u4e.js
+    // Added title, description and content 
+    // Added conclusion 
+    // Uploaded images 
+    // Added icons 
 
     // To select an element by ID use: $w('#elementID')
 
