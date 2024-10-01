@@ -9,6 +9,8 @@ $w.onReady(function () {
     // Edited the placement of the "see more" button
     // Fixing error on "Vietnam" to "Vietnamese"
     // Added a section named "Article Catalogs"
+    // Deleted "see more" button
+    // Attached link onto the images 
     
     // To select an element by ID use: $w('#elementID')
 
