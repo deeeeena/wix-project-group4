@@ -5,6 +5,7 @@ $w.onReady(function () {
     // Write your JavaScript here
     // Chose a template and uploaded an image
     // Added title, subtitle and description
+    // Added content and conclusion
 
     // To select an element by ID use: $w('#elementID')
 
