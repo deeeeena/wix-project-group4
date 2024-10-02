@@ -6,7 +6,8 @@ $w.onReady(function () {
 	// updated the summary 
 	// edited blog pictures
 	// edited blog caption
-
+	// added icon logo next to the title
+	
 	// Print hello world:
 	// console.log("Hello world!");
 
