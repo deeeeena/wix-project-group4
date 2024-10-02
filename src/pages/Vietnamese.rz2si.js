@@ -7,6 +7,7 @@ $w.onReady(function () {
 	// updated blog post picture
 	// updated blog caption
         // added icon logo next to the title
+	// added alternative to navigate to the recipe page (explore more)
 
 
 	// Print hello world:
