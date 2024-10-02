@@ -3,6 +3,11 @@
 $w.onReady(function () {
 
 	// Write your Javascript code here using the Velo framework API
+	// created input boxes
+	// created form 
+	// created select file button
+	// created submit button
+
 
 	// Print hello world:
 	// console.log("Hello world!");
