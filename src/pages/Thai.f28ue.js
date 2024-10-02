@@ -3,6 +3,9 @@
 $w.onReady(function () {
 
 	// Write your Javascript code here using the Velo framework API
+	// updated summary
+	// updated blog picture food post
+	// updated caption blog
 
 	// Print hello world:
 	// console.log("Hello world!");
