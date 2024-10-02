@@ -6,6 +6,7 @@ $w.onReady(function () {
 	// updated summary japanese dishes
 	// blog post updated
 	// edited caption blog
+	// added icon logo next to the title
 	
 
 	// Print hello world:
