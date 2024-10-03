@@ -3,6 +3,9 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
+    // updated pictures
+    // updated recipes
+    // included the original link of the website recipe
 
     // To select an element by ID use: $w('#elementID')
 
