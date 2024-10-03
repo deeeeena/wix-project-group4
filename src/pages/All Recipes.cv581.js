@@ -3,8 +3,8 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
-    // updated recipes for each dishes 
-    // included link for original website of the recipe
+    // updated pictures used in blog
+    //updated caption
 
     // To select an element by ID use: $w('#elementID')
 
